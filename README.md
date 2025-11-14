@@ -23,7 +23,9 @@ Este repositório contém o código desenvolvido no vídeo **“Animação de Ca
 ```
 /
 ├── index.html
-└── style.css
+└── css/
+    └── style.css
+
 ```
 
 ---
