@@ -6,8 +6,7 @@ Este repositório contém o código desenvolvido no vídeo **“Animação de Ca
 
 ## 🎥 Vídeo no YouTube
 
-🔗 *Adicione aqui o link do vídeo*
-Exemplo: `[Clique para assistir](#)`
+🔗 [Assista ao vídeo no YouTube](https://youtu.be/XPRPnPPjfs8?si=_0wJi4ovdw9dVM6i)
 
 ---
 
@@ -31,7 +30,7 @@ Exemplo: `[Clique para assistir](#)`
 
 ## 🖥️ Prévia da animação
 
-Você pode clonar o repositório e abrir o arquivo **index.html** no navegador para visualizar o efeito de carregamento da bateria.
+https://github.com/user-attachments/assets/fd6d1e5e-55ec-4855-982a-6690019eacab
 
 ---
 
